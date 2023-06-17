@@ -9,7 +9,7 @@ export const Wrapper = styled.main`
   text-align: center;
   display: flex;
   align-items: center;
-  flex-direction: collumn;
+  flex-direction: column;
   justify-content: center;
 `
 
